@@ -43,7 +43,7 @@ A robust, modular finite state machine (FSM) framework for embedded systems, bui
 - [Examples](#examples)
 - [API Reference](#api-reference)
 - [Contributing](#contributing)
-- [License](#License)
+- [License](#license)
 
 ## Installation
 
@@ -57,7 +57,7 @@ git clone https://github.com/wladimiresposito/BestFSM.git
 cp -r bestfsm ~/Arduino/libraries/
 ```
 
-## 🎯 Quick Start
+## Quick Start
 
 Create a simple LED blink state machine:
 
@@ -144,7 +144,7 @@ The library provides several configuration options through preprocessor definiti
 #define SCHEDULER_DEBUG    // Enable scheduler debugging
 ```
 
-## 🔍 Core Concepts
+## Core Concepts
 
 ### States
 
@@ -213,7 +213,7 @@ Reusable actions with precise timing:
 - `TimedAction`: One-shot delayed execution
 - `Scheduler`: Manages multiple actions
 
-## 📚 Examples
+## Examples
 
 **Example: Blinking LED using Actions**
 
@@ -369,7 +369,7 @@ In embedded systems, this controlled use of dynamic allocation provides a pragma
 - Drift Compensation: Automatic
 - Minimum State Duration: according to the Arduino clock
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -379,7 +379,7 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
