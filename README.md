@@ -37,15 +37,15 @@ A robust, modular finite state machine (FSM) framework for embedded systems, bui
 
 ## 📋 Table of Contents
 
-- [Installation](##Installation)
+- [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Core Concepts](#core-concepts)
 - [Examples](#examples)
 - [API Reference](#api-reference)
 - [Contributing](#contributing)
-- [License](##License)
+- [License](#icense)
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
