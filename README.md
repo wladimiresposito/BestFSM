@@ -43,7 +43,7 @@ A robust, modular finite state machine (FSM) framework for embedded systems, bui
 - [Examples](#examples)
 - [API Reference](#api-reference)
 - [Contributing](#contributing)
-- [License](#icense)
+- [License](#license)
 
 ## Installation
 
